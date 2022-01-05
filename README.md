@@ -18,16 +18,20 @@ Document my running training and do some ML on the data.
 
 ## The Model
 
-Let's do a 
+Let's start with a simple linear model:
+
+    time = m * dist
 
 ----
 
 ## Predictions
 
-Predictions made on Jan 5th:
+Predictions made on Jan 5th fro 3 observations:
 
-* 10.0km : 
-* 21.1km : 
+* Valentinslauf:  71.69 min
+* Halfmarathon : 151.28 min
+
+Let's collect more data!
 
 ----
 
