@@ -2,3 +2,5 @@ timestamp,distance [km],time [min],speed,location
 2022-01-02 23:00,12.0,90,slow,Lichterfelde
 2022-01-04 19:00,4.5,24,fast,Stadtpark
 2022-01-05 9:30,6.5,45,slow,Lichterfelde
+2022-01-06 10:30,14.0,100,slow,Lankwitz-Ullsteinhaus
+2022-01-09 21:30,11.0,65,fast,Lichterfelde-Hindenburgdamm
