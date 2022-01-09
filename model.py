@@ -3,7 +3,9 @@ import pandas as pd
 from sklearn.linear_model import LinearRegression
 
 
-df = pd.read_csv('data.csv')
+df = pd.read_csv('data.csv', parse_dates=True)
+df['speed [min/km]'] = df['time [min]'] / df['distance [km]']
+print(df)
 
 X = df[['distance [km]']]
 y = df['time [min]']
