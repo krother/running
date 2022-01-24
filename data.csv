@@ -7,3 +7,7 @@ timestamp,distance [km],time [min],speed,location
 2022-01-12 13:30,7.0,50,slow,Südkreuz
 2022-01-13 21:00,11.0,70,medium,Lichterfelde-Hindenburgdamm
 2022-01-15 12:30,4.5,30,ABC,Stadtpark
+2022-01-16 20:00,15.0,115,slow,Kurfürstendamm
+2022-01-18 20:30,11.0,64,fast,Lichterfelde-Hindenburgdamm
+2022-01-21 21:00,4.5,33,ABC,Stadtpark
+2022-01-22 21:00,6.0,42,slow,Munsterdamm-Schlossstrasse
