@@ -11,3 +11,5 @@ timestamp,distance [km],time [min],speed,location
 2022-01-18 20:30,11.0,64,fast,Lichterfelde-Hindenburgdamm
 2022-01-21 21:00,4.5,33,ABC,Stadtpark
 2022-01-22 21:00,6.0,42,slow,Munsterdamm-Schlossstrasse
+2022-01-24 21:30,17.0,125,slow,Handjery-Ebers-Yorck-Ku-Hubertus
+2022-01-26 22:00,3.2,17.1,4x800,Insulaner
