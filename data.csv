@@ -17,4 +17,5 @@ timestamp,distance [km],time [min],speed,location
 2022-01-30 14:00,17.2,120,slow,Stichkanal
 2022-02-01 22:00,4.5,31,ABC,Stadtpark
 2022-02-02 23:00,11.0,59,fast,Lichterfelde-Hindenburgdamm
-
+2022-02-05 23:00,4.5,23,fast,Stadtpark
+2022-02-07 11:30,17.2,115,slow,Stichkanal
