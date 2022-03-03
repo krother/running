@@ -25,3 +25,7 @@ timestamp,distance [km],time [min],speed,location
 2022-02-15 16:00,19.44,125,slow,Kanal-Teltow
 2022-02-18 23:00,4.5,24,medium,Stadtpark
 2022-02-20 8:30,11.0,77,slow,Südkreuz
+2022-02-23 11:00,7.0,42,medium,Südkreuz
+2022-02-26 16:00,11.0,70,slow,Lichterfelde-Hindenburgdamm
+2022-02-28 23:00,4.5,28,ABC,Stadtpark
+2022-03-02 22:00,9.2,60,slow,Kurfürstendamm
